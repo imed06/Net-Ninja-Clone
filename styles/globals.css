@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.home{
+    background-image: url("https://cdn.fs.teachablecdn.com/X8lKm1uRYOwG8iUDCSUO");
+    background-size: cover;
+    background-position: left;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+.ninja-pro{
+    background-image: url("../public/pro-logo.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body{
+    background-color: #212121;
+}
